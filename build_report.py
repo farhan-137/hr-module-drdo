@@ -352,17 +352,24 @@ template = """<!DOCTYPE html>
     <div class="org-address">Lucknow Road, Timarpur, Delhi -- 110054</div>
   </div>
 
-  <div class="sign-grid">
-    <div class="sign-box">
-      <div class="sign-title">SUBMITTED BY:</div>
+  <div style="display: flex; justify-content: space-between; margin-top: 32px; text-align: left; padding: 0 8px;">
+    <div style="width: 35%; font-size: 10pt; line-height: 1.35;">
+      <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">SUBMITTED BY:</div>
       <div><strong>Farhan Ahmad</strong></div>
       <div>B.E., Computer Science</div>
       <div>BITS Pilani, Goa Campus</div>
-      <div style="margin-top: 2px; font-size: 9.5pt;">f20230772@goa.bits-pilani.ac.in</div>
-      <div style="font-size: 9.5pt;">+91 98915 04254</div>
+      <div style="margin-top: 2px; font-size: 8.5pt;">f20230772@goa.bits-pilani.ac.in</div>
+      <div style="font-size: 8.5pt;">+91 98915 04254</div>
     </div>
-    <div class="sign-box sign-box-right">
-      <div class="sign-title">PROJECT GUIDE:</div>
+    <div style="width: 28%; font-size: 10pt; line-height: 1.35;">
+      <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">&nbsp;</div>
+      <div><strong>Prerna Thakur</strong></div>
+      <div>B.Tech, ECE &mdash; IGDTU, Delhi</div>
+      <div style="margin-top: 2px; font-size: 8.5pt;">prerna048btece23@idtuw.ac.in</div>
+      <div style="font-size: 8.5pt;">+91 87001 42517</div>
+    </div>
+    <div style="width: 30%; font-size: 10pt; line-height: 1.35; text-align: right;">
+      <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">PROJECT GUIDE:</div>
       <div><strong>Scientist / HR Division</strong></div>
       <div>Solid State Physics Laboratory (SSPL)</div>
       <div>DRDO, Timarpur, Delhi</div>
@@ -381,13 +388,23 @@ template = """<!DOCTYPE html>
 
   <p>I am also profoundly thankful to all the members, technical officers, and scientific staff of Solid State Physics Laboratory (SSPL), DRDO, Timarpur, Delhi -- 110054 for their constant assistance and cooperation throughout the project lifecycle. I would also like to thank my parents and almighty God for this opportunity.</p>
 
-  <div style="margin-top: 110px; font-size: 10.5pt; line-height: 1.5;">
+  <div style="margin-top: 90px; font-size: 10.5pt; line-height: 1.5;">
     <div><strong>Date:</strong> 31st July, 2026</div>
     <div><strong>Place:</strong> Delhi</div>
-    <div style="margin-top: 10px;"><strong>Name:</strong> Farhan Ahmad</div>
-    <div><strong>Mobile No.:</strong> +91 98915 04254</div>
-    <div><strong>Email:</strong> f20230772@goa.bits-pilani.ac.in</div>
-    <div style="margin-top: 4px;"><strong>Institution:</strong> BITS Pilani, Goa Campus</div>
+    <div style="display: flex; justify-content: space-between; margin-top: 14px;">
+      <div style="width: 48%; font-size: 10pt; line-height: 1.5;">
+        <div><strong>Name:</strong> Farhan Ahmad</div>
+        <div><strong>Mobile No.:</strong> +91 98915 04254</div>
+        <div><strong>Email:</strong> f20230772@goa.bits-pilani.ac.in</div>
+        <div><strong>Institution:</strong> BITS Pilani, Goa Campus</div>
+      </div>
+      <div style="width: 48%; font-size: 10pt; line-height: 1.5;">
+        <div><strong>Name:</strong> Prerna Thakur</div>
+        <div><strong>Mobile No.:</strong> +91 87001 42517</div>
+        <div><strong>Email:</strong> prerna048btece23@idtuw.ac.in</div>
+        <div><strong>Institution:</strong> IGDTU, Delhi</div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -395,7 +412,7 @@ template = """<!DOCTYPE html>
 <div class="page">
   <h1 class="chapter-title">CERTIFICATE OF ORIGINALITY</h1>
   
-  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted by <strong>Farhan Ahmad</strong> (B.E. Computer Science, Birla Institute of Technology and Science, Pilani — Goa Campus) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
+  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted jointly by <strong>Farhan Ahmad</strong> (B.E. Computer Science, Birla Institute of Technology and Science, Pilani — Goa Campus) and <strong>Prerna Thakur</strong> (B.Tech, Electronics &amp; Communication Engineering, Indira Gandhi Delhi Technical University, Delhi) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
 
   <p>The system architecture, database modeling, backend REST APIs, frontend interfaces, security middleware pipelines, and cloud containerization embodied in this report have been completed with institutional rigor, adhering to software design methodologies, data security protocols, and standard laboratory procedures.</p>
 
