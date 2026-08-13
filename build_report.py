@@ -356,7 +356,7 @@ template = """<!DOCTYPE html>
     <div style="width: 35%; font-size: 10pt; line-height: 1.35;">
       <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">SUBMITTED BY:</div>
       <div><strong>Farhan Ahmad</strong></div>
-      <div>B.E., Computer Science</div>
+      <div>B.E., Electrical &amp; Electronics Engg. (EEE)</div>
       <div>BITS Pilani, Goa Campus</div>
       <div style="margin-top: 2px; font-size: 8.5pt;">f20230772@goa.bits-pilani.ac.in</div>
       <div style="font-size: 8.5pt;">+91 98915 04254</div>
@@ -412,7 +412,7 @@ template = """<!DOCTYPE html>
 <div class="page">
   <h1 class="chapter-title">CERTIFICATE OF ORIGINALITY</h1>
   
-  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted jointly by <strong>Farhan Ahmad</strong> (B.E. Computer Science, Birla Institute of Technology and Science, Pilani — Goa Campus) and <strong>Prerna Thakur</strong> (B.Tech, Electronics &amp; Communication Engineering, Indira Gandhi Delhi Technical University, Delhi) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
+  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted jointly by <strong>Farhan Ahmad</strong> (B.E. Electrical &amp; Electronics Engineering, Birla Institute of Technology and Science, Pilani — Goa Campus) and <strong>Prerna Thakur</strong> (B.Tech, Electronics &amp; Communication Engineering, Indira Gandhi Delhi Technical University, Delhi) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
 
   <p>The system architecture, database modeling, backend REST APIs, frontend interfaces, security middleware pipelines, and cloud containerization embodied in this report have been completed with institutional rigor, adhering to software design methodologies, data security protocols, and standard laboratory procedures.</p>
 
