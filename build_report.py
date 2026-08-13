@@ -355,17 +355,17 @@ template = """<!DOCTYPE html>
   <div style="display: flex; justify-content: space-between; margin-top: 32px; text-align: left; padding: 0 8px;">
     <div style="width: 35%; font-size: 10pt; line-height: 1.35;">
       <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">SUBMITTED BY:</div>
+      <div><strong>Prerna Thakur</strong></div>
+      <div>B.Tech, ECE &mdash; IGDTU, Delhi</div>
+      <div style="margin-top: 2px; font-size: 8.5pt;">prerna048btece23@igdtuw.ac.in</div>
+      <div style="font-size: 8.5pt;">+91 87001 42517</div>
+    </div>
+    <div style="width: 28%; font-size: 10pt; line-height: 1.35;">
+      <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">&nbsp;</div>
       <div><strong>Farhan Ahmad</strong></div>
       <div>B.E., EEE &mdash; BITS Pilani, Goa</div>
       <div style="margin-top: 2px; font-size: 8.5pt;">f20230772@goa.bits-pilani.ac.in</div>
       <div style="font-size: 8.5pt;">+91 98915 04254</div>
-    </div>
-    <div style="width: 28%; font-size: 10pt; line-height: 1.35;">
-      <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">&nbsp;</div>
-      <div><strong>Prerna Thakur</strong></div>
-      <div>B.Tech, ECE &mdash; IGDTU, Delhi</div>
-      <div style="margin-top: 2px; font-size: 8.5pt;">prerna048btece23@idtuw.ac.in</div>
-      <div style="font-size: 8.5pt;">+91 87001 42517</div>
     </div>
     <div style="width: 30%; font-size: 10pt; line-height: 1.35; text-align: right;">
       <div style="font-weight: bold; text-decoration: underline; margin-bottom: 5px;">PROJECT GUIDE:</div>
@@ -392,16 +392,16 @@ template = """<!DOCTYPE html>
     <div><strong>Place:</strong> Delhi</div>
     <div style="display: flex; justify-content: space-between; margin-top: 14px;">
       <div style="width: 48%; font-size: 10pt; line-height: 1.5;">
+        <div><strong>Name:</strong> Prerna Thakur</div>
+        <div><strong>Mobile No.:</strong> +91 87001 42517</div>
+        <div><strong>Email:</strong> prerna048btece23@igdtuw.ac.in</div>
+        <div><strong>Institution:</strong> IGDTU, Delhi</div>
+      </div>
+      <div style="width: 48%; font-size: 10pt; line-height: 1.5;">
         <div><strong>Name:</strong> Farhan Ahmad</div>
         <div><strong>Mobile No.:</strong> +91 98915 04254</div>
         <div><strong>Email:</strong> f20230772@goa.bits-pilani.ac.in</div>
         <div><strong>Institution:</strong> BITS Pilani, Goa Campus</div>
-      </div>
-      <div style="width: 48%; font-size: 10pt; line-height: 1.5;">
-        <div><strong>Name:</strong> Prerna Thakur</div>
-        <div><strong>Mobile No.:</strong> +91 87001 42517</div>
-        <div><strong>Email:</strong> prerna048btece23@idtuw.ac.in</div>
-        <div><strong>Institution:</strong> IGDTU, Delhi</div>
       </div>
     </div>
   </div>
@@ -411,7 +411,7 @@ template = """<!DOCTYPE html>
 <div class="page">
   <h1 class="chapter-title">CERTIFICATE OF ORIGINALITY</h1>
   
-  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted jointly by <strong>Farhan Ahmad</strong> (B.E. Electrical &amp; Electronics Engineering, Birla Institute of Technology and Science, Pilani — Goa Campus) and <strong>Prerna Thakur</strong> (B.Tech, Electronics &amp; Communication Engineering, Indira Gandhi Delhi Technical University, Delhi) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
+  <p>This is to certify that the internship project report entitled <strong>“Design and Development of an Enterprise Trainee &amp; Internship Management Portal (TIMP)”</strong> submitted jointly by <strong>Prerna Thakur</strong> (B.Tech, Electronics &amp; Communication Engineering, Indira Gandhi Delhi Technical University for Women, Delhi) and <strong>Farhan Ahmad</strong> (B.E. Electrical &amp; Electronics Engineering, Birla Institute of Technology and Science, Pilani — Goa Campus) in partial fulfillment of the requirements for the completion of the technical research internship at <strong>Solid State Physics Laboratory (SSPL), Defence Research and Development Organisation (DRDO), Delhi</strong>, is an authentic and verified record of engineering work carried out under scientific supervision.</p>
 
   <p>The system architecture, database modeling, backend REST APIs, frontend interfaces, security middleware pipelines, and cloud containerization embodied in this report have been completed with institutional rigor, adhering to software design methodologies, data security protocols, and standard laboratory procedures.</p>
 
@@ -554,7 +554,7 @@ template = """<!DOCTYPE html>
 <div class="page">
   <h2 class="section-title">1.2 Project Overview</h2>
 
-  <p>The project titled <strong>"Trainee &amp; Internship Management Portal (TIMP)"</strong> was conceptualized and jointly executed by <strong>Farhan Ahmad</strong> (B.E. EEE, BITS Pilani, Goa Campus) and <strong>Prerna Thakur</strong> (B.Tech ECE, IGDTU, Delhi) during their internship tenure at SSPL -- DRDO. The objective was to replace conventional, time-consuming paper-based workflows with a secure, performant, and role-based web management platform tailored to the operational requirements of the HR and Systems Divisions.</p>
+  <p>The project titled <strong>"Trainee &amp; Internship Management Portal (TIMP)"</strong> was conceptualized and jointly executed by <strong>Prerna Thakur</strong> (B.Tech ECE, IGDTU, Delhi) and <strong>Farhan Ahmad</strong> (B.E. EEE, BITS Pilani, Goa Campus) during their internship tenure at SSPL -- DRDO. The objective was to replace conventional, time-consuming paper-based workflows with a secure, performant, and role-based web management platform tailored to the operational requirements of the HR and Systems Divisions.</p>
 
   <p>Traditional trainee management workflows involved manual physical verification of candidate bio-data, paper-based scientist mentor allocation, handwritten daily gate attendance logs, and manual template creation for completion certificates. These manual touchpoints introduced administrative latency, potential record inaccuracies, and lack of real-time visibility into trainee allocation across departments.</p>
 
@@ -1279,7 +1279,7 @@ ENTRYPOINT ["dotnet", "backend.dll"]</div>
 
   <h2 class="section-title">7.1 Conclusion</h2>
 
-  <p>The <strong>Trainee &amp; Internship Management Portal (TIMP)</strong> successfully modernizes and digitizes the trainee onboarding, scientist allocation, attendance tracking, and certificate issuance operations at the <strong>Solid State Physics Laboratory (SSPL - DRDO)</strong>. This portal was jointly designed and developed by <strong>Farhan Ahmad</strong> and <strong>Prerna Thakur</strong> as part of their technical internship at SSPL.</p>
+  <p>The <strong>Trainee &amp; Internship Management Portal (TIMP)</strong> successfully modernizes and digitizes the trainee onboarding, scientist allocation, attendance tracking, and certificate issuance operations at the <strong>Solid State Physics Laboratory (SSPL - DRDO)</strong>. This portal was jointly designed and developed by <strong>Prerna Thakur</strong> and <strong>Farhan Ahmad</strong> as part of their technical internship at SSPL.</p>
 
   <p>By implementing a decoupled ASP.NET Core Web API and React TypeScript architecture, our system achieves sub-20ms average API response times, robust JWT/BCrypt security hardening, interactive visual attendance analytics, and responsive certificate generation. The multi-stage Docker containerization ensures operational portability across development workstations and cloud infrastructure.</p>
 
